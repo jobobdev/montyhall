@@ -1,2 +1,2 @@
 # montyhall
-NamKyu_Kim, JaeGuen_Kim, JeonHun_Jo
+NamGyu_Kang, JaeGuen_Kim, JeonHun_Jo
