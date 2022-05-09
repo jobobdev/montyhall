@@ -1,12 +1,13 @@
 # 이제 몬티홀을 만들어 봅시다.
 # 자료형: int
 # 변수 명: 선택한 문 = 's_door', 자동차 문 = 'c_door', 사회자가 열어줄 문 = 'o_door'
-import random as rd
+
+import random
 
 class montyHall():
   def __init__(self):
-    self.c_door = rd.randrange(1,4)
-    self.s_door = rd.randrange(1,4)
+    self.c_door = random.randrange(1, 4)
+    self.s_door = random.randrange(1, 4)
     self.o_door = 0
 
 # 1st 개발(본인)은 
